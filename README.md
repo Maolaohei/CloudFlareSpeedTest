@@ -137,3 +137,7 @@ pyinstaller --onefile --console --name "CFSpeedTest" --hidden-import customtkint
 ```
 
 生成的 exe 在 `dist/` 目录下。将 `env.txt`、`http.txt` 等文件放在 exe 同目录即可运行。
+
+## 感谢项目
+
+https://github.com/XIU2/CloudflareSpeedTest
