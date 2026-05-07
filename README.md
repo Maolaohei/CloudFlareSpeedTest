@@ -2,6 +2,9 @@
 
 Cloudflare IP 优选测速工具，通过 TCP 延迟测试 + 下载速度测试筛选最快的 Cloudflare IP，并自动更新 Cloudflare DNS 记录。
 
+
+虽然已经有了XIU2/CloudflareSpeedTest这么优秀的工具，但是感觉不太适合我，于是自己vibe了一个适合自己需求的。
+
 ## 功能
 
 - **IP 收集** — 从域名解析、CIDR 段随机采样、自定义 IP 列表等多源收集候选 IP
